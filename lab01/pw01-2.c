@@ -4,6 +4,6 @@ int main(void) {
     printf("[Мухаметжанов А.]\n");
     printf("  Мухаметжанов\n");
     printf("              А.\n");
-    printf("]А. Мухаметжанов[\n");
+    printf("].А вонажтемахуМ[\n");
     return 0;
 }
